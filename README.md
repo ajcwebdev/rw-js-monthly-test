@@ -26,8 +26,8 @@ Your browser should open automatically to `http://localhost:8910` to see the web
 ## Create a Redwood app and open code editor
 
 ```
-yarn create redwood-app ./rw-js-monthly-test
-cd rw-js-monthly-test
+yarn create redwood-app ./rw-js-monthly
+cd rw-js-monthly
 code .
 ```
 
@@ -40,7 +40,7 @@ git init -b main && git add . && git commit -m "Initial commit"
 ## Set remote and push to origin
 
 ```
-git remote add origin https://github.com/ajcwebdev/rw-js-monthly-test.git
+git remote add origin https://github.com/ajcwebdev/rw-js-monthly.git
 git push -u origin main
 ```
 
