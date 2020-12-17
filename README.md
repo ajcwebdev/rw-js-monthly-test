@@ -226,8 +226,7 @@ datasource DS {
 ## Commit final state of project
 
 ```
-git add .
-git commit -m "Deploy and database setup"
+git add . && git commit -m "Deploy and database setup"
 git push -u origin
 ```
 
